@@ -1,11 +1,12 @@
 body {
-    background-color: #ffffff;
+    background-color: #f8f8f8;
 }
 
 .book-library {
     display: flex;
     flex-direction: column;
     justify-content: center;
+	background-color: #ffffff;
     width: 60%;
     padding: 10px;
     gap: 10px;
@@ -36,6 +37,7 @@ body {
 
 .book p{
     text-align: left;
+	color: #777777;
 }
 
 
