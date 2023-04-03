@@ -1,1 +1,40 @@
-/*  your css code here. If applicable */
+body {
+    background-color: #ffffff;
+}
+
+.book-library {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 60%;
+    padding: 10px;
+    gap: 10px;
+    box-shadow: 0px 0px 10px #777777;
+}
+
+.section {
+    background-color: #f0f1f0;
+    text-align: center;
+}
+
+.book {
+    padding:20px;
+}
+
+.book a{
+    text-decoration: none;
+    color: white;
+    background-color: #2ecc71;
+    padding: 10px;
+    display: block;
+}
+
+.book h3{
+    text-align: left;
+}
+
+.book p{
+    text-align: left;
+}
+
+
