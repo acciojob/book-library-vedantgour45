@@ -27,9 +27,10 @@ body {
     background-color: #2ecc71;
     padding: 10px;
     display: block;
+	border-radius: 5px;
 }
 
-.book h3{
+.book h2{
     text-align: left;
 }
 
